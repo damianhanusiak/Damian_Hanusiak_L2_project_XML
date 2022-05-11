@@ -1,0 +1,26 @@
+<!ELEMENT motorcycles (motorcycle+)>
+<!ELEMENT motorcycle (mark,model,made_in,capacity,horsepower,weight,vmax,photo)>
+<!ELEMENT mark (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT made_in (#PCDATA)>
+<!ELEMENT capacity (#PCDATA)>
+<!ELEMENT horsepower (#PCDATA)>
+<!ELEMENT weight (#PCDATA)>
+<!ELEMENT vmax (#PCDATA)>
+<!ELEMENT photo (#PCDATA)>
+<!ATTLIST motorcycle type (chopper|enduro|tourist) #REQUIRED>
+<!ATTLIST model shortcut CDATA #REQUIRED>
+<!ATTLIST capacity standard CDATA "cm3">
+<!ATTLIST horsepower standard CDATA "km">
+<!ATTLIST weight standard CDATA "kg">
+<!ATTLIST vmax standard CDATA "km/h">
+
+
+
+
+  
+
+
+
+
+

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="plik.xsl"?>
+<!DOCTYPE motorcycles SYSTEM "motorcycles.dtd">
+
+<motorcycles>
+    <motorcycle type="chopper">
+        <mark>Harley Davidson</mark>
+        <model shortcut="SS">1340 Springer Softail</model>
+        <made_in>USA</made_in>
+        <capacity standard="cm3">1337 cm3</capacity>
+        <horsepower standard="km">58 KM</horsepower>
+        <weight standard="kg">299 kg</weight>
+        <vmax standard="km/h">165 km/h</vmax>
+        <photo>https://beta-cdn.smyk.com/media/product/1600/1/maisto-motocykl-harley-davidson-2001-fxsts-springer-softail-skala-118-5917180.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="chopper">
+        <mark>Yamaha</mark>
+        <model shortcut="XVSDS">XVS Drag Star</model>
+        <made_in>Japan</made_in>
+        <capacity standard="cm3">649 cm3</capacity>
+        <horsepower standard="km">40 KM</horsepower>
+        <weight standard="kg">227 kg</weight>
+        <vmax standard="km/h">147 km/h</vmax>
+        <photo>https://motobanda.pl/uploads/motors/415/2005XVS650AStudio08Tcm22-9999x600-resize.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="chopper">
+        <mark>Honda</mark>
+        <model shortcut="VTSS">VT Shadow Sabre</model>
+        <made_in>Japan</made_in>
+        <capacity standard="cm3">1099 cm3</capacity>
+        <horsepower standard="km">62 KM</horsepower>
+        <weight standard="kg">261 kg</weight>
+        <vmax standard="km/h">159 km/h</vmax>
+        <photo>https://gmoto.pl/var/description_photos/gmoto/1023_honda_vt_1100_shadow_0_5f15624b9e5e4.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="enduro">
+        <mark>KTM</mark>
+        <model shortcut="EXCF">EXC-F</model>
+        <made_in>Austria</made_in>
+        <capacity standard="cm3">510 cm3</capacity>
+        <horsepower standard="km">57 KM</horsepower>
+        <weight standard="kg">106 kg</weight>
+        <vmax standard="km/h">147 km/h</vmax>
+        <photo>https://gmoto.pl/var/description_photos/gmoto/1139_ktm_exc_450_0_5f4e218de41f5.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="enduro">
+        <mark>Honda</mark>
+        <model shortcut="CRF">CRF</model>
+        <made_in>Japan</made_in>
+        <capacity standard="cm3">450 cm3</capacity>
+        <horsepower standard="km">55 KM</horsepower>
+        <weight standard="kg">106 kg</weight>
+        <vmax standard="km/h">152 km/h</vmax>
+        <photo>https://www.honda.pl/content/dam/central/motorcycles/off-road/crf450r_2022/Overview/Overlap/Honda_CRF450R.jpg/_jcr_content/renditions/fb_r.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="enduro">
+        <mark>KTM</mark>
+        <model shortcut="EXCTPI">EXC TPI</model>
+        <made_in>Austria</made_in>
+        <capacity standard="cm3">300 cm3</capacity>
+        <horsepower standard="km">51 KM</horsepower>
+        <weight standard="kg">104 kg</weight>
+        <vmax standard="km/h">105 km/h</vmax>
+        <photo>https://www.ktm.com/ktmgroup-storage/PHO_BIKE_90_RE_300-exc-tpi-22-erzberg-90re_%23SALL_%23AEPI_%23V1.png</photo>
+    </motorcycle>
+
+    <motorcycle type="enduro">
+        <mark>Yamaha</mark>
+        <model shortcut="WRF">WR-F</model>
+        <made_in>Japan</made_in>
+        <capacity standard="cm3">450 cm3</capacity>
+        <horsepower standard="km">23 KM</horsepower>
+        <weight standard="kg">129 kg</weight>
+        <vmax standard="km/h">94 km/h</vmax>
+        <photo>https://motobanda.pl/uploads/motors/430/wr3.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="tourist">
+        <mark>BMW</mark>
+        <model shortcut="FGS">F-GS</model>
+        <made_in>Germany</made_in>
+        <capacity standard="cm3">850 cm3</capacity>
+        <horsepower standard="km">95 KM</horsepower>
+        <weight standard="kg">233 kg</weight>
+        <vmax standard="km/h">200 km/h</vmax>
+        <photo>https://www.jednoslad.pl/wp-content/uploads/2021/02/BMW-F-850-GS-2.png</photo>
+    </motorcycle>
+
+    <motorcycle type="tourist">
+        <mark>Yamaha</mark>
+        <model shortcut="TR9">Tracer 9</model>
+        <made_in>Japan</made_in>
+        <capacity standard="cm3">890 cm3</capacity>
+        <horsepower standard="km">119 KM</horsepower>
+        <weight standard="kg">213 kg</weight>
+        <vmax standard="km/h">215 km/h</vmax>
+        <photo>https://motobanda.pl/uploads/motors/623/katalog-m_5U84N.jpg</photo>
+    </motorcycle>
+
+    <motorcycle type="tourist">
+        <mark>Honda</mark>
+        <model shortcut="NT">NT</model>
+        <made_in>Japan</made_in>
+        <capacity standard="cm3">1100 cm3</capacity>
+        <horsepower standard="km">102 KM</horsepower>
+        <weight standard="kg">238 kg</weight>
+        <vmax standard="km/h">202 km/h</vmax>
+        <photo>https://www.motocykl-online.pl/media/lib/3042/honda-cb1100x-2021.jpg</photo>
+    </motorcycle>
+</motorcycles>
